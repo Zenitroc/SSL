@@ -27,7 +27,7 @@
 - En la terminal, escribí lo siguiente y luego presioná Enter:
 
   ```bash
-  cd 00-HolaMundo
+  cd 00 - CHelloWorld
   ```
 
   Esto te lleva a la carpeta donde está el archivo `hola.c`.
