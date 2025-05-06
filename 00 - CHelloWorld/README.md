@@ -62,4 +62,4 @@
 
 ---
 
-¡Felicidades! Ya creaste y ejecutaste tu primer programa en C.
+¡Felicidades! Ya creaste y ejecutaste tu primer programa en C 😎.
