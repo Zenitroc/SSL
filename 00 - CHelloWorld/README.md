@@ -57,7 +57,7 @@
   En la pantalla debería aparecer el mensaje:
 
   ```
-  Hola, Mundo!
+  Hola Mundo!
   ```
 
 ---
